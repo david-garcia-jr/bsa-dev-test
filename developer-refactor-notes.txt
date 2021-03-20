@@ -1,0 +1,19 @@
+    _navigation.scss
+    Lines 831-836
+    
+    font-family: $font-forza;
+    font-weight: 700;
+    font-size: rem-calc(14);
+    letter-spacing: 0.17px;
+    color: $color-orange;
+    padding-right: rem-calc(9);
+
+Added 838-840
+    @include media(">phone") {
+      display: none;
+    }
+
+    
+
+ navigation.js
+     mobileMenuOpen = mobileMenuOpen ? false : true;  Ln. 17   

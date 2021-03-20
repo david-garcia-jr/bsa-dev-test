@@ -23,37 +23,37 @@
                 			<ul class="navigation-menu__submenu">
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Welding</span>
                 					</a>
                 				</li>
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Inspection</span>
                 					</a>
                 				</li>
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Coating</span>
                 					</a>
                 				</li>
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Personnel Training</span>
                 					</a>
                 				</li>
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Consulting</span>
                 					</a>
                 				</li>
                 				<li class="navigation-menu__submenu-item">
                 					<a href="#" class="navigation-menu__submenu-link">
-                						<img src="dist/images/general/welding-icon.svg" alt=""  class="navigation-menu__submenu-icon">
+                						<img src="dist/images/general/welding-icon.jpg" alt=""  class="navigation-menu__submenu-icon">
                 						<span class="navigation-menu__submenu-label">Project Management</span>
                 					</a>
                 				</li>
